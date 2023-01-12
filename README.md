@@ -3,4 +3,4 @@ Michael Angelo S.Flores
 
 LG **CAMPION**
 
-!(https://i.kym-cdn.com/entries/icons/mobile/000/025/999/Screen_Shot_2018-04-24_at_1.33.44_PM.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png)
