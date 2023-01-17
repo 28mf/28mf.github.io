@@ -1,5 +1,5 @@
 # 28mf.github.io
-## Michael Angelo S. Flores
+Michael Angelo S. Flores
 
 LG:**Campion**
 
